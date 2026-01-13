@@ -1,5 +1,3 @@
-# NETFLIX_CHURN
-
 # Netflix Customer Churn Data Analysis
 
 This project analyzes customer churn data to identify why users cancel subscriptions and which customers are at higher risk of churn.
